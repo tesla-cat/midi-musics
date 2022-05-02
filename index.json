@@ -1,18 +1,10 @@
-{
-    "lemon.mid":{
-        "name": "lemon.mid",
-        "url": "https://github.com/tesla-cat/midi-musics/raw/main/lemon.mid"
-    },
-    "恋爱循环.mid":{
-        "name": "恋爱循环.mid",
-        "url": "https://github.com/tesla-cat/midi-musics/raw/main/恋爱循环.mid"
-    },
-    "rasputin.mid":{
-        "name": "rasputin.mid",
-        "url": "https://github.com/tesla-cat/midi-musics/raw/main/rasputin.mid"
-    },
-    "千本樱.mid":{
-        "name": "千本樱.mid",
-        "url": "https://github.com/tesla-cat/midi-musics/raw/main/千本樱.mid"
-    }
-}
+[
+  "JOJO的奇妙冒险.mid",
+  "lemon.mid",
+  "rasputin.mid",
+  "千本樱.mid",
+  "恋爱循环.mid",
+  "权御天下.mid",
+  "死了都要爱.mid",
+  "黑人抬棺.mid"
+]
